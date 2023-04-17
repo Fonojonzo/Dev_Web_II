@@ -1,0 +1,9 @@
+{
+	"index": 2,
+	"nome": "Leonardo"
+}	
+
+localgost:8080/getAluno
+-- BODY > JSON
+
+THUNDERCLIENT
